@@ -1,2 +1,14 @@
 # Feed-Tech-Solution
-Sistema IoT de alimentación y seguimiento del crecimiento en ganado bovino. Proyecto realizado en el marco del énfasis "IoT Fundamentos y aplicaciones".  Implementación de sistema IoT alrededor de microprocesador Raspberry Pi 3. Aplicación de sensores RFID, flujo y carga.
+IoT System for Feeding and Growth Monitoring in Cattle.
+Project developed as part of the emphasis "IoT Fundamentals and Applications."
+Implementation of an IoT system using a Raspberry Pi 3 microprocessor.
+Application of RFID, flow, and load sensors.
+
+
+
+
+
+
+
+
+
