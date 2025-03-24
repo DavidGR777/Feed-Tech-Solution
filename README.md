@@ -1,6 +1,7 @@
 # Feed-Tech-Solution
 IoT System for Feeding and Growth Monitoring in Cattle.
 Project developed as part of the emphasis "IoT Fundamentals and Applications."
+The IoT system included the next activities and tasks:
 
 - Implementation of an IoT system using a Raspberry Pi 3 microprocessor.
 
@@ -16,7 +17,7 @@ Project developed by Lina Ramírez, Yuliana Torres and David González
 
 ## Expo-proyectos Javeriana participation certificate  
 This project was presented in Expo-proyectos Javeriana and we got the following certificate of participation 
-![Certificado](docs/Certificado Expoproyectos.pdf)
+[Certificado](docs/Certificado_Expoproyectos.pdf)
 
 
 ## 🌐 Active web page  
