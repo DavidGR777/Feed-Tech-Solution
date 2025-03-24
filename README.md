@@ -6,16 +6,16 @@ Implementation of an IoT system using a Raspberry Pi 3 microprocessor.
 
 Application of RFID, flow, and load sensors.
 
-## Certificado de Participación  
-Este proyecto fue presentado en ExpoJaveriana, y obtuvimos el siguiente reconocimiento:  
+## Expo-proyectos Javeriana participation certificate  
+This project was presented in Expo-proyectos Javeriana and we got the following certificate of participation 
 ![Certificado](docs/certificado.pdf)
 
 
-# 🌐 Proyecto en Línea  
-Puedes ver la página web activa aquí:  
+# 🌐 Active web page  
+You can explore the  active project web page here:
 🔗 [Feed-Tech-Solution Web](http://feedtechsolution.infinityfreeapp.com/) 
 
-El Free Web Hosting de la página web es infinityfree. Este soporta back-end en PHP y MySQL
+The Free Web Hosting of the web page is infinityfree. It is able to support back-end with PHP y MySQL
 
 
 
