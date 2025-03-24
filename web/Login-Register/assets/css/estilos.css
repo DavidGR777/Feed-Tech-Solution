@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url(../images/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.contenedor__todo{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.caja__trasera{
+    width: 100%;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 255, 110, 0.5);
+}
+
+.caja__trasera div{
+    margin: 100px 40px;
+    color: white;
+    transition: all 500ms;
+}
+
+.caja__trasera div p,
+.caja__trasera button{
+    margin-top: 30px;
+}
+
+.caja__trasera div h3{
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.caja__trasera button{
+    border: 2px solid #fff;
+    background: transparent;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    outline: none;
+    transition: all 300ms;
+    padding: 10px 40px;
+}
+
+.caja__trasera button:hover{
+    background: #fff;
+    color: #1CBF37;
+}
+
+/*Formularios*/
+.contenedor__login-register{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 380px;
+    position: relative;
+    top: -185px;
+    left: 10px;
+    transition: left 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+}
+
+.contenedor__login-register form{
+    width: 100%;
+    padding: 70px 20px;
+    background: #fff;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.contenedor__login-register form h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1CBF37;
+}
+
+.contenedor__login-register form input{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    background: #F2F2F2;
+    font-size: 16px;
+    outline: none;
+}
+
+.contenedor__login-register form button{
+    padding: 10px 40px;
+    margin-top: 30px;
+    border: none;
+    font-size: 14px;
+    background: #1CBF37;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
+
+.contenedor__login-register form small{
+    width: 80%;
+    padding: 3px;
+    background: #1CBF37;
+    color: white;
+    font-size: 10px;
+    margin-left: 4px; /* Ajusta el valor según sea necesario */
+}
+
+/* Definiendo los íconos de visualización de contraseña */
+    .contenedor__password {
+        position: relative;
+    }
+
+    #contrasena {
+        padding-right: 30px; /* Para dejar espacio para el ícono del ojo */
+    }
+
+    .mostrar-contrasena {
+        position: absolute;
+        top: 50%;
+        right: 5px;
+        transform: translateY(-50%);
+        cursor: pointer;
+    }
+
+    .mostrar-contrasena img{
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+
+/* Formularios */
+.formulario__login{
+    opacity: 1;
+    display: block;
+}
+
+.formulario__register{
+    display: none;
+}
+
+
+/*Botón de olvido de contraseña*/
+.olvido-contrasena {
+    font-size: 10px;
+    color: #333; /* Cambiar el color del texto si es necesario */
+    text-decoration: none; /* Eliminar subrayado del enlace */
+    display: block; /* Para que ocupe toda la línea */
+    margin-top: 10px; /* Espacio entre el botón "Entrar" y el enlace "¿Olvidó su contraseña?" */
+    margin-left: 5px;
+}
+
+/*Trabajando en el responsive design*/
+
+@media screen and (max-width: 850px){
+
+    main{
+        margin-top: 50px;
+    }
+
+    .caja__trasera{
+        max-width: 350px;
+        height: 300px;
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .caja__trasera div{
+        margin: 0px;
+        position: absolute;
+    }
+
+    /*Formulario*/
+
+    .contenedor__login-register{
+        top: -10px;
+        left: -5px;
+        margin: auto;
+    }
+
+    .contenedor__login-register form{
+        position: relative;
+    }
+    
+}
+
+/* Modificando ventana de actualización de datos */
+
+.contenedor__general{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.contenedor__modificar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 380px;
+    position: relative;
+    top: 225px;
+    left: 200px;
+    transition: left 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+}
+
+.contenedor__modificar form{
+    width: 100%;
+    padding: 70px 20px;
+    background: #fff;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.contenedor__modificar form h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1CBF37;
+}
+
+.contenedor__modificar form input{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    background: #F2F2F2;
+    font-size: 16px;
+    outline: none;
+}
+
+.contenedor__modificar form button{
+    padding: 10px 40px;
+    margin-top: 30px;
+    border: none;
+    font-size: 14px;
+    background: #1CBF37;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+
+
