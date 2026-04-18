@@ -27,8 +27,7 @@ This project was presented in Expo-proyectos Javeriana and we got the following 
 
 ### 🌐 Active web page  
 You can explore the  active project web page here:
-🔗 [Feed-Tech-Solution Web](http://feedtechsolution.infinityfreeapp.com/) 
-The Free Web Hosting of the web page is infinityfree. It is able to support back-end with PHP y MySQL
+🔗 [Feed-Tech-Solution Web](http://feedtechsolution.infinityfreeapp.com/). The Free Web Hosting of the web page is infinityfree. It is able to support back-end with PHP y MySQL
 
 
 
