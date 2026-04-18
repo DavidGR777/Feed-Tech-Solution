@@ -13,6 +13,8 @@ The IoT system included the next activities and tasks:
 
 - Cloud computing implementation and data performance in a Dashboard using Thingsboard
 
+[Project conception doc](docs/Project conception.pdf)
+
 Project developed by Lina Ramírez, Yuliana Torres and David González
 
 <p align="center">
@@ -21,7 +23,7 @@ Project developed by Lina Ramírez, Yuliana Torres and David González
 
 ### Expo-proyectos Javeriana participation certificate  
 This project was presented in Expo-proyectos Javeriana and we got the following certificate of participation 
-[Certificado](docs/Certificado_Expoproyectos.pdf)
+[Certificado](docs/expoproyectos/Certificado_Expoproyectos.pdf)
 
 ### 🌐 Active web page  
 You can explore the  active project web page here:
