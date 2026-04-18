@@ -15,8 +15,6 @@ The IoT system included the next activities and tasks:
 
 Project developed by Lina Ramírez, Yuliana Torres and David González
 
----
-
 <p align="center">
   <img src="docs/images/Sistema general implementado.jpg" align="left" width="300" style="margin-right: 15px;">
 </p>
