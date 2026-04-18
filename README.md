@@ -13,7 +13,7 @@ The IoT system included the next activities and tasks:
 
 - Cloud computing implementation and data performance in a Dashboard using Thingsboard
 
-[Project conception doc](docs/Project conception.pdf)
+[Project conception doc](docs/project_conception.pdf)
 
 Project developed by Lina Ramírez, Yuliana Torres and David González
 
