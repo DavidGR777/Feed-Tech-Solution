@@ -15,12 +15,16 @@ The IoT system included the next activities and tasks:
 
 Project developed by Lina Ramírez, Yuliana Torres and David González
 
-## Expo-proyectos Javeriana participation certificate  
+<p align="center">
+  <img src="docs/images/Sistema general implementado.jpg" width="300">
+</p>
+
+### Expo-proyectos Javeriana participation certificate  
 This project was presented in Expo-proyectos Javeriana and we got the following certificate of participation 
 [Certificado](docs/Certificado_Expoproyectos.pdf)
 
 
-## 🌐 Active web page  
+### 🌐 Active web page  
 You can explore the  active project web page here:
 🔗 [Feed-Tech-Solution Web](http://feedtechsolution.infinityfreeapp.com/) 
 
