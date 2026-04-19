@@ -15,12 +15,6 @@ The IoT system included the next activities and tasks:
 
 [Project conception doc](docs/project_conception.pdf)
 
-## Project Members
-
-- Lina Ramírez
-- Yuliana Torres
-- David González  
-
 <p align="center">
   <img src="docs/images/Sistema general implementado.jpg" align="left" width="300" style="margin-right: 15px;">
 </p>
@@ -33,7 +27,11 @@ This project was presented in Expo-proyectos Javeriana and we got the following 
 You can explore the  active project web page here:
 🔗 [Feed-Tech-Solution Web](http://feedtechsolution.infinityfreeapp.com/). The Free Web Hosting of the web page is infinityfree. It is able to support back-end with PHP y MySQL
 
+## Project Members
 
+- Lina Ramírez
+- Yuliana Torres
+- David González  
 
 
 
